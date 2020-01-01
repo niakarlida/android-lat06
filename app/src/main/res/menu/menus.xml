@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miAranea"
+        android:icon="@drawable/aranea_highwind"
+        android:title="Aranea Highwind"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/miCloud"
+        android:icon="@drawable/cloud_stife"
+        android:title="Cloud Strife"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/miLightning"
+        android:icon="@drawable/lightning_farron"
+        android:title="Lightning Farron"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/miLuna"
+        android:icon="@drawable/lunafreya_nox_fleuret"
+        android:title="Lunafreya Nox Fleuret"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/miNoctis"
+        android:icon="@drawable/noctis_lucis_caelum"
+        android:title="Noctis Lucis Caelum"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/miLumina"
+        android:icon="@drawable/lumina"
+        android:title="Lumina"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/miPrompto"
+        android:icon="@drawable/prompto_argentum"
+        android:title="Prompto Argentum"
+        tools:ignore="HardcodedText" />
+</menu>
